@@ -7,7 +7,7 @@ DAY-2 Types of Operators: Arithmatic, Realational, Assignment, Logical; Converst
 
 DAY-3 String, Next line, Concatination, Length, Indexing, Slicing(forward & backward), String Functions.
 
-DAY-4 Conditional Statements: if-else, if-elif-else,  
+DAY-4 Conditional Statements: if-else, if-elif-else, 
 if-if-if, Nesting if, Examples.
 
 DAY-5 List (Mutable - Changable), List Slicing, List Methods : append(), Insert(), sort(), reverse(), pop(), remove()
