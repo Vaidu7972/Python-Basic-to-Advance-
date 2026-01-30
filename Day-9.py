@@ -16,4 +16,6 @@ print("\n")
 count = 1
 while count <= 5:                   #While condition, Print HEllo world 5 times
     print("Hello World", count)
+ 
     count += count+1                # Increment the count by 1
+count++ 
