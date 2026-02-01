@@ -51,16 +51,66 @@ for i in range(5):          #0 to 4
 #or
 
 a=range
-for i in range(5):
+for i in range(5):           #range(stop)
     print(i)
 
-for i in range(1,11):      #1 to 10
+for i in range(1,11):      #1 to 10         range(start,stop)
     print(i)
 
 for i in range(1,11,2):    #1 to 10 with step 2
     print(i)
 
-for i in range(10,0,-1):   #10 to 1 with step -1
+for i in range(10,0,-1):   #10 to 1 with step -1   range(start,stop,step)
     print(i)
-    
+
+#  PASS STATEMENT (SKIP)
+
+"""IT IS A NULL STATEMENT THAT DOES NOTHING.
+IT IS USED AS PLACEHOLDER FOR FUTURE CODE. """
+
+for i in range(5):
+    pass                       # here above like/loop does nothing i.e not print anything
+print("Hello Vaidehi")  
+
+#  EXAMPLLES
+
+#  QUE : find the sum of n natural numbers
+
+#  WHILE LOOP
+
+n = 10
+sum = 0
+i = 1
+while i <= n:
+    sum = sum + i
+    i = i + 1
+
+#  USING RANGE FUNCTION
+
+n = 10
+sum = 0
+for i in range(1, n + 1):
+    sum = sum + i
+
+# Que: factorial of a no 
+
+#using for
+
+n = 5
+fact = 1
+for i in range(1, n + 1):
+    fact = fact * i
+print("Factorial of", n, "is", fact)
+
+#using while
+
+n = 5
+fact = 1
+i = 1
+while i <= n:
+    fact = fact * i
+    i = i + 1
+print("Factorial of", n, "is", fact)
+
+
 
