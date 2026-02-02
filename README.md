@@ -16,7 +16,14 @@ DAY-6 Tuple (Immutable - Not changable); Tuple Slicing; Tuple Methods: index, co
 
 DAY-7 DICTIONARY {Key-value pair}; (unorder, mutable, don't duplicate keys.) ; operation : accessing , adding , replacing  , null , Nested Dictionary , Dictionary Methods  : Key-return all key , Value all values returns , len - length ,items , get - return value of secified key , update - add new
 
-DAY-8
+DAY-8  Set, empty set, Methods of set: add(), remove(), pop(), clean(), union U, internsection, EX of directory
 
 DAY-9
 
+DAY-A Fuctions
+1. Function with arguments and return type,
+2. Function with no arguments and no return type,
+3. Function with arguments and no return type,
+4. Function with no arguments and return type, Examples.
+
+DAY-B
