@@ -20,7 +20,8 @@ DAY-8  Set, empty set, Methods of set: add(), remove(), pop(), clean(), union U,
 
 DAY-9  Loops: while loop, Infinite loop, Finite loop, Reverse printing, Examples of while loop, Break & Continue.
 
-DAY-A Fuctions
+DAY-A For loop, Examples of for loop, Range Function(for), Pass statement (skip)
+DAY-B Fuctions
 1. Function with arguments and return type,
 2. Function with no arguments and no return type,
 3. Function with arguments and no return type,
