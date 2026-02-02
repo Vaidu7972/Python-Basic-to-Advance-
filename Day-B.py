@@ -47,7 +47,7 @@ print(result,"\n")
 #  1. Fuction with arguments and return Type 
 
 def square(num):                    #fuction call
-    return num * num
+    return num * num                #function definition
 
 result = square(5)
 print(result,"\n")
@@ -77,11 +77,19 @@ print(message)
 
 # EXAMPLE : avg of 3 numbers
 
-def average(a,b,c):
+def average(a,b,c):          #this is not return type function
     avg = (a+b+c)/3
     print(avg)
+    return avg
     
-    avg(10,20,30)       #function call
+    average(10,20,30)       #function call
+    
+def cal_average(a,b,c):     
+    sum = a + b + c
+    avg = sum / 3
+    print("Average is:", avg)   
+    return avg
+average(1,2,3)   
     
 #  by default arguments    
 
