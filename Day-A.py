@@ -14,7 +14,7 @@ else:
 name="Vaidehi"
 for i in name:
     if i == 'z':
-        print("V Found")
+        print("V Found")    
     else:
         print("no")    
     
@@ -111,6 +111,7 @@ while i <= n:
     fact = fact * i
     i = i + 1
 print("Factorial of", n, "is", fact)
+
 
 
 
