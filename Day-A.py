@@ -19,7 +19,7 @@ for i in name:
         print("no")    
     
 #  EXAMPLES 
-
+       
 """ Print elements of list using loop 
 [1,4,9,16,25,36,49,64,81,100] """
 
@@ -111,6 +111,7 @@ while i <= n:
     fact = fact * i
     i = i + 1
 print("Factorial of", n, "is", fact)
+
 
 
 
