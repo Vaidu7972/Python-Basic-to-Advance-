@@ -72,3 +72,4 @@ print(list)
 list.pop(1)
 print(list)
 
+
