@@ -8,7 +8,7 @@
 marks=11
 marks=22
 marks=33
-marks=44    
+marks=44   
 marks=55
 
 #  instead of this  we  can write list at a time as follows--->
@@ -71,6 +71,7 @@ print(list)
 
 list.pop(1)
 print(list)
+
 
 
 
