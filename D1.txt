@@ -1,0 +1,2 @@
+w+ overwite.
+This line is written in a+ mode.
