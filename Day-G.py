@@ -96,7 +96,7 @@ They are not accessible directly from outside the class.
 """
 
 class Person:
-    __name="Giri"              #__name is a private attribute.
+    __name="Vaidehi"              #__name is a private attribute.
 
     def __hello(self):         #__hello() is a private method.
         print("hello")
@@ -113,3 +113,29 @@ welcome() prints "hello".
 Since welcome() does not return anything, it returns None.
 print() displays None.
 """  
+
+
+class Account:
+    def __init__(self, bal, acc):
+        self.balance = bal
+        self.account_no = acc
+        
+    def debit(self,amount):
+        self.balance -= amount
+        print("RS.", amount,"was debited" )
+        print("total balance = ",self.get_balance())
+        
+    def credit(self,amount):
+        self.balance += amount
+        print("RS.", amount,"was credited" )
+        print("total balance = ",self.get_balance())
+        
+    def get_balance(self):
+        return self.balance
+    
+acc1 = Account(10000, 12345)
+acc1.debit(1000)
+acc1.credit(500)    
+        
+        
+        
