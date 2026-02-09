@@ -1,0 +1,1 @@
+This is a new file D2.txt created using write mode.
