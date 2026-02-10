@@ -27,4 +27,4 @@ DAY-B Fuctions
 3. Function with arguments and no return type,
 4. Function with no arguments and return type, Examples.
 
-DAY-B
+
