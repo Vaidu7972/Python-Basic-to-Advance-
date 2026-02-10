@@ -30,4 +30,17 @@ DAY-B Fuctions
 
 DAY-C RECURSION FUNCTION & Examples.
 
+DAY-D FILE I/O, types of files, FILE MODES, FILE OPERATIONS,
+
+Open a file and read data,
+Open a file and write data(overwrite mode),
+Open a file and append data (write at the end of the file), r+,w+,a+.
+
+DAY-E Diffente syntax of file I/O, delete file, Examples.
+
+DAY-F 
+
+DAY-G
+
+
 
