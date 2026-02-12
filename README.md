@@ -10,7 +10,7 @@ DAY-3 String, Next line, Concatination, Length, Indexing, Slicing(forward & back
 DAY-4 Conditional Statements: if-else, if-elif-else, 
 if-if-if, Nesting if, Examples. 
 
-DAY-5 List (Mutable - Changable), List Slicing, List Methods : append(), Insert(), sort(), reverse(), pop(), remove()
+DAY-5 List (Mutable - Changable), List Slicing, List Methods : append(), Insert(), sort(), reverse(), pop(), remove() 
 
 DAY-6 Tuple (Immutable - Not changable); Tuple Slicing; Tuple Methods: index, count; Examples of List (using append, check Palindrom, Count(), Sort(), Reverse()
 
