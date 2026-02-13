@@ -46,7 +46,7 @@ class Car:
 
     def show_speed(self):
         print("Speed:", self.speed)
-
+ 
 car1 = Car()
 car1.accelerate()
 car1.show_speed()
@@ -139,4 +139,5 @@ acc1.credit(500)
         
         
         
+
 
