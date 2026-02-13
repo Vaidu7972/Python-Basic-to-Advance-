@@ -19,7 +19,7 @@ DAY-7 DICTIONARY {Key-value pair}; (unorder, mutable, don't duplicate keys.) ; o
 DAY-8  Set, empty set, Methods of set: add(), remove(), pop(), clean(), union U, internsection, EX of directory
 
 DAY-9  Loops: while loop, Infinite loop, Finite loop, Reverse printing, Examples of while loop, Break & Continue.
-
+ 
 DAY-A For loop, Examples of for loop, Range Function(for), Pass statement (skip) 
 
 DAY-B Fuctions
