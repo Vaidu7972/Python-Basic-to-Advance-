@@ -11,7 +11,7 @@ DAY-4 Conditional Statements: if-else, if-elif-else,
 if-if-if, Nesting if, Examples. 
  
 DAY-5 List (Mutable - Changable), List Slicing, List Methods : append(), Insert(), sort(), reverse(), pop(), remove() 
-
+ 
 DAY-6 Tuple (Immutable - Not changable); Tuple Slicing; Tuple Methods: index, count; Examples of List (using append, check Palindrom, Count(), Sort(), Reverse()
 
 DAY-7 DICTIONARY {Key-value pair}; (unorder, mutable, don't duplicate keys.) ; operation : accessing , adding , replacing  , null , Nested Dictionary , Dictionary Methods  : Key-return all key , Value all values returns , len - length ,items , get - return value of secified key , update - add new
