@@ -5,7 +5,7 @@ DAY-1 Syntax, Comments, Varible & Identifier, Data Types, Append & Casting, Conv
 
 DAY-2 Types of Operators: Arithmatic, Realational, Assignment, Logical; Converstion (automatically), Casting (forcefully), Taking Input 
 
-DAY-3 String, Next line, Concatination, Length, Indexing, Slicing(forward & backward), String Functions. 
+DAY-3 String, Next line, Concatination, Length, Indexing, Slicing(forward & backward), String Functions.  
 
 DAY-4 Conditional Statements: if-else, if-elif-else,  
 if-if-if, Nesting if, Examples.  
