@@ -8,7 +8,7 @@ Types: Single Inheritance      (one child one parent)
 """
 # 1.Single level Inhertance
 
-class Car:                      # Parent / Base class: gives property to another class 
+class Car:                      # Parent  / Base class: gives property to another class 
     @staticmethod
     def start():
         print("Car started...")
@@ -126,4 +126,5 @@ s1 = Student("Rahul","IT")
 
 print("Name:", s1.name)
 print("Course:", s1.course)
+
 
