@@ -25,7 +25,7 @@ DAY-A For loop, Examples of for loop, Range Function(for), Pass statement (skip)
 DAY-B Fuctions
 1. Function with arguments and return type,
 2. Function with no arguments and no return type,
-3. Function with arguments and no return type,
+3. Function with arguments and no return type, 
 4. Function with no arguments and return type, Examples.
 
 DAY-C RECURSION FUNCTION & Examples.
