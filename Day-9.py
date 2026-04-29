@@ -7,7 +7,7 @@ Lops are use to repeat a instruction or block of code multiple times
 # WHILE LOOP
 
 # Infinite Loop
-while True:
+while True:  
     print("Hello World","\n")       # This will print Hello World infinitely
     break                           # This will break the infinite loop
 print("\n")
