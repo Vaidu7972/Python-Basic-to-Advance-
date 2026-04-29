@@ -6,7 +6,7 @@ print("Hello")                   #double  ("")  (' ') (""" """)  same working
 print('Hello')                   #single
 print('''Hello''')               #triple
 print("Myself Vaidehi Doke ")    #sentence
-print(20)                        #number
+print(20)                        #number    
 
 #  COMMENT
   
