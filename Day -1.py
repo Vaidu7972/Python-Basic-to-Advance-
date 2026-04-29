@@ -9,7 +9,7 @@ print("Myself Vaidehi Doke ")    #sentence
 print(20)                        #number
 
 #  COMMENT
-
+  
 # used for comment
 # python is case - Sensitive 
 # a=2 A=2 different both 
