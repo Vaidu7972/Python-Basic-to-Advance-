@@ -3,7 +3,7 @@ print(23)
 print("Vpf","errr")
 
 print("Hello")                   #double  ("")  (' ') (""" """)  same working 
-print('Hello')                   #single
+print('Hello')                   #single 
 print('''Hello''')               #triple
 print("Myself Vaidehi Doke ")    #sentence
 print(20)                        #number    
