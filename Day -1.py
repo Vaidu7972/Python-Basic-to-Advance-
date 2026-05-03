@@ -1,6 +1,6 @@
 print ("HEllO")        #string is written in double quotes
 print(23)          
-print("Vpf","errr")
+print("Vpf","errr") 
 
 print("Hello")                   #double  ("")  (' ') (""" """)  same working 
 print('Hello')                   #single 
