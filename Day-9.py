@@ -1,7 +1,7 @@
 """ 
 LOOPS
 for loop, while loop
-Lops are use to repeat a instruction or block of code multiple times 
+Loops are use to repeat a instruction or block of code multiple times 
 """
 
 # WHILE LOOP
