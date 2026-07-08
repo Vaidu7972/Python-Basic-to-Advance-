@@ -43,5 +43,5 @@ DAY-F oop concepts
 DAY-G   Abstraction
 DAY-H  Inheritance
 
-DAY-I  Class Method
+DAY-I  Class Method , static method 
 
